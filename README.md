@@ -29,7 +29,7 @@ If you wish to contribute to this project. Feel free to do so. There is still ro
 
 
 ### Bot commands
-1. /access <\password> : for a little security. (you can change the password from `main.py`).
+1. `/access <password>` : for a little security. (you can change the password from `main.py`).
 2. After gaining access you can directly use the bot by sending it text messages of images.
-3. /image <\prompt> : to generate images.
-4. /pdf <\question> : to chat with pdf (upload a pdf before using this)
+3. `/image <\prompt>` : to generate images.
+4. `/pdf <\question>` : to chat with pdf (upload a pdf before using this)
